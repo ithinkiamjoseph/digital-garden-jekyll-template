@@ -2,9 +2,15 @@
 title: Bermuda Grass Lawn - MOC
 ---
 
+🌿
+
 I am making this because I am first time homeowner and have no idea how to take care of a lawn. I also really dislike yard work.
 
-So I decided to just try and get super nerdy by researching lawn care. It's definitely gotten me way more interested in it. This Map-of-Content (MOC) will be my collected notes on the subject. We have a house in North Georgia that has bermuda grass.
+So I decided to just try and get super nerdy by researching lawn care. It's definitely gotten me way more interested in it and I've done a fair bit of work already. Don't know why, but doing a lot of research helps me become way more motivated to work on the lawn. Could be my ADHD, could be something else. Either  way, it's working, lol.
+
+This Map-of-Content (MOC) will be my collected notes on the subject. I will try to have some sort of order to it. 
+
+For reference, we have a house in North Georgia that has bermuda grass. My notes will be focused on those specific things.
 
 ### Mowing
 * ==You should never cut more than 1/3 of your grass at a time.==
