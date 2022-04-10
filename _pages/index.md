@@ -15,7 +15,7 @@ I will be posting notes from topics that I am researching for some sort of perso
 
 Below are links to pages I'm created and are likely still working on:
   * [[The Shallows - Notes]]
-  * [[lawncare - moc]]
+  * [[Bermuda Grass Lawn - MOC]]
 
 <style>
   .wrapper {
