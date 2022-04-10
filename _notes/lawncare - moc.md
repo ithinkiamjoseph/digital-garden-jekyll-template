@@ -2,8 +2,6 @@
 title: Bermuda Grass Lawn - MOC
 ---
 
-# Bermuda Grass Lawn Care
-
 I am making this because I am first time homeowner and have no idea how to take care of a lawn. I also really dislike yard work.
 
 So I decided to just try and get super nerdy by researching lawn care. It's definitely gotten me way more interested in it. This Map-of-Content (MOC) will be my collected notes on the subject. We have a house in North Georgia that has bermuda grass.
@@ -20,6 +18,7 @@ So I decided to just try and get super nerdy by researching lawn care. It's defi
 
 ### Fertilizing
 > ==The most efficient way to fertilize is to use one of the dry granular fertilizers that are sold in 10-50 lb bags. Hose end liquid fertilizers work, but they are difficult to use correctly and you will need to fertilize twice as often as with granular fertilizer.== [Source](https://www.outsidepride.com/seed/grass-seed/bermuda-grass-seed/Fertilizing-Bermuda-Grass/)
+
 * When possible use a slow release fertilizer with a 3-1-2 ratio. An example would be 12-4-8.
 * [This](https://www.homedepot.com/p/Scotts-Wizz-Spreader-71131/206601107?ITC=AUC-129461-23-12140) is a good handheld fertilizer spreader which should be fine for our small yard.
 * The best time to apply fertilizer is after the danger of frost has passed and ==your lawn is at least 50% green.==[[How To Properly Fertilize Bermuda Grass Lawns#^f7b63s|*]]
@@ -31,6 +30,6 @@ So I decided to just try and get super nerdy by researching lawn care. It's defi
 
 
 ### Resources
-* [[Bermudagrass Yearly Maintenance Program]] - Good Article
+* [Bermudagrass Yearly Maintenance Program](https://hgic.clemson.edu/factsheet/bermudagrass-maintenance-calendar/) - Good Article
 * Here's a Calendar in PDF form from [[UGA]] about Bermudagrass lawn management:
 	* [PDF HERE](https://extension.uga.edu/content/dam/extension-county-offices/forsyth-county/anr/BermudagrassLawnCalendar.pdf)
